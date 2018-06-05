@@ -68,10 +68,24 @@ After a few years collecting different resources of electronics and telecomunica
 * [Partsbox.io](https://partsbox.io/)
 * [Reddit - Storing your electronic components](https://es.reddit.com/r/electronics/comments/7xz1vs/tip_storing_your_electronic_components/)
 
+
+
+##Forums <a name="Forums"></a>
+* [Electronics StackExchange.](https://electronics.stackexchange.com/)
+* [/r/AskElectronics/](https://www.reddit.com/r/AskElectronics/)
+* [/r/ECE/](https://www.reddit.com/r/ECE/)
+* [/r/electronic_circuits/](https://www.reddit.com/r/electronic_circuits/)
+* [/r/ElectricalEngineering/](https://www.reddit.com//r/ElectricalEngineering/)
+* [/r/electronics/](https://www.reddit.com/r/electronics/)
+* [/r/AskElectronics/](https://www.reddit.com/r/AskElectronics/)
+* [/r/arduino](https://www.reddit.com/r/arduino/)
+* [/r/ArduinoProjects/](https://www.reddit.com/r/ArduinoProjects/)
+
 ## Blogs          <a name="Blogs"></a>
 * [Circuits.io](https://circuits.io/)
 * [Microwaves & RF](http://www.mwrf.com/)
 * [EDN Network](https://www.edn.com/)
+
 
 ## Others         <a name="Others"></a>
 * [XOD Visual Programming Arduino](https://www.youtube.com/watch?v=qxjLH_3US04&feature=youtu.be)

@@ -3,8 +3,8 @@ After a few years collecting different resources of electronics and telecomunica
 
 
 ## Index
-* [Basics](##Basics)
-* [Books] (##Books) 
+* [Basics](#Basics)
+* [Books](#Books) 
 * PCB
 * Youtube Channels
 * Podcasts

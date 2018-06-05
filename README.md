@@ -10,6 +10,7 @@ After a few years collecting different resources of electronics and telecomunica
   * [KiCad](#KiCad)
 * [Youtube Channels](YoutubeChannels)
 * [Podcasts](#Podcasts)
+* [Forums](#Forums)
 * [Projects](#Projects)
 * [Storing Components](#StoringComponents)
 * [Blogs](#Blogs)
@@ -57,21 +58,7 @@ After a few years collecting different resources of electronics and telecomunica
 * [Programming Electronics Academy Podcast](https://programmingelectronics.com/oshpodcast/)
 
 
-
-## Projects   <a name="Projects"></a>
-* [Instructables](http://www.instructables.com/)
-* [Hackter.io](https://www.hackster.io/projects)
-* [Hackaday.io](https://hackaday.io/projects)
-* [Electronics Projects Hub](https://electronicsprojectshub.com/)
-
-
-## Storing Components     <a name="StoringComponents"></a>
-* [Partsbox.io](https://partsbox.io/)
-* [Reddit - Storing your electronic components](https://es.reddit.com/r/electronics/comments/7xz1vs/tip_storing_your_electronic_components/)
-
-
-
-##Forums <a name="Forums"></a>
+## Forums <a name="Forums"></a>
 * [Electronics StackExchange.](https://electronics.stackexchange.com/)
 * [/r/AskElectronics/](https://www.reddit.com/r/AskElectronics/)
 * [/r/ECE/](https://www.reddit.com/r/ECE/)
@@ -81,6 +68,19 @@ After a few years collecting different resources of electronics and telecomunica
 * [/r/AskElectronics/](https://www.reddit.com/r/AskElectronics/)
 * [/r/arduino](https://www.reddit.com/r/arduino/)
 * [/r/ArduinoProjects/](https://www.reddit.com/r/ArduinoProjects/)
+
+
+## Projects   <a name="Projects"></a>
+* [Instructables](http://www.instructables.com/)
+* [Hackter.io](https://www.hackster.io/projects)
+* [Hackaday.io](https://hackaday.io/projects)
+* [Electronics Projects Hub](https://electronicsprojectshub.com/)
+
+
+
+## Storing Components     <a name="StoringComponents"></a>
+* [Partsbox.io](https://partsbox.io/)
+* [Reddit - Storing your electronic components](https://es.reddit.com/r/electronics/comments/7xz1vs/tip_storing_your_electronic_components/)
 
 ## Blogs          <a name="Blogs"></a>
 * [Circuits.io](https://circuits.io/)

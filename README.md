@@ -33,7 +33,7 @@ After a few years collecting different resources of electronics and telecomunica
 ## PCB    <a name="PCB"></a>
 ### General     <a name="General"></a>
 * [Top 5 PCB Design Guidelines Every PCB Designer Needs to Know](https://resources.altium.com/pcb-design-blog/top-pcb-design-guidelines-every-pcb-designer-needs-to-know)
-* [EEVblog - PCB Desing Tutorial] (http://www.alternatezone.com/electronics/files/PCBDesignTutorialRevA.pdf)
+* [EEVblog - PCB Desing Tutorial](http://www.alternatezone.com/electronics/files/PCBDesignTutorialRevA.pdf)
 
 ### KiCad     <a name="KiCad"></a>
 * [B.A.Byrce - KiCad PCB Tutorial](http://babryce.com/kicad/tutorial.html)

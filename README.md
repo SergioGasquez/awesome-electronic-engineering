@@ -83,7 +83,7 @@ After a few years collecting different resources of electronics and telecomunica
 * [Partsbox.io](https://partsbox.io/)
 * [Reddit - Storing your electronic components](https://es.reddit.com/r/electronics/comments/7xz1vs/tip_storing_your_electronic_components/)
 
-## Looking for Components   <a name="LookingComponents"></a>
+## Searching for Components   <a name="SearchingComponents"></a>
 * [Octopart](https://octopart.com/)
 * [Findchips](https://www.findchips.com/)
 

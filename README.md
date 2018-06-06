@@ -5,6 +5,7 @@ After a few years collecting different resources of electronics and telecomunica
 ## Index
 * [Basics](#Basics)
 * [Books](#Books) 
+* [Circuits Simulators](#CircuitsSimulators)
 * [PCB](#PCB)
   * [General](#General)
   * [KiCad](#KiCad)
@@ -37,6 +38,15 @@ digital and analog electronics.
 * [Hayt Kemmerly - Engineering Circuit Analysis](https://www.dropbox.com/s/zoyywgy0tgdz7my/Hayt%20Kemmerly%20-%20Engineering%20Circuit%20Analysis.pdf?dl=0) Made for students, it explains circuit analysis in a very clear way.
 Lots of numerical examples are included.
 * [Darren Ashby - Electrical Engineering 101](https://www.dropbox.com/s/cv5nk91ow8jsjp7/Darren%20Ashby%20-%20Electrical%20Engineering%20101%20-%203rd%20Edition.pdf?dl=0) Basic theory and practice of electronics.
+
+
+## Circuits Simulators  <a name="CircuitsSimulators"></a>
+* [PartSim](https://www.partsim.com/simulator) Online simulatior with all the basics functions.
+* [LTspice](http://www.analog.com/en/design-center/design-tools-and-calculators.html) Free sotfware with a great variety of desing
+simulation tools.
+* [NI MultiSIM](http://sine.ni.com/nips/cds/view/p/lang/en/nid/201800) Very intuitive and has just about any feature you could want including pcb layout. 
+* [OrCAD PSpice](https://www.orcad.com/resources/orcad-downloads) As a student you can get a student version for free. Is very
+powerful and with lots of great tools.
 
 ## PCB    <a name="PCB"></a>
 ### General     <a name="General"></a>
@@ -90,7 +100,6 @@ of projects contests with greats rewards.
 * [Electronics Projects Hub](https://electronicsprojectshub.com/) Small site with great projects!
 
 
-
 ## Storing Components     <a name="StoringComponents"></a>
 * [Partsbox.io](https://partsbox.io/) They offer a very innovative and great way to keep track of your electronics parts.
 * [Reddit - Storing your electronic components](https://es.reddit.com/r/electronics/comments/7xz1vs/tip_storing_your_electronic_components/) Reddit thread with lots of ways
@@ -108,6 +117,7 @@ to store your components.
 
 
 ## Others         <a name="Others"></a>
+* [Fritzing](http://fritzing.org/home/) Open source hardware that includes schematic caputre and breadboard layout applications.
 * [XOD Visual Programming Arduino](https://www.youtube.com/watch?v=qxjLH_3US04&feature=youtu.be) Program Arduino in a very
 particular way through visual blocks.
 

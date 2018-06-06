@@ -97,16 +97,17 @@ of projects contests with greats rewards.
 to store your components.
 
 ## Searching engines of Components   <a name="SearchingComponents"></a>
-* [Octopart](https://octopart.com/)
-* [Findchips](https://www.findchips.com/)
+* [Octopart](https://octopart.com/) Find any component by his description, part number or category.
+* [Findchips](https://www.findchips.com/) Get instant insight into any electronic component.
 
 ## Blogs          <a name="Blogs"></a>
-* [Circuits.io](https://circuits.io/)
-* [Microwaves & RF](http://www.mwrf.com/)
-* [EDN Network](https://www.edn.com/)
-* [SparkFun](https://www.sparkfun.com/)
+* [Circuits.io](https://circuits.io/) Ideal for simulations and tutorials.
+* [Microwaves & RF](http://www.mwrf.com/) News related with microelectronics and RF.
+* [EDN Network](https://www.edn.com/) All kind of electronics news.
+* [SparkFun](https://www.sparkfun.com/) Bunch of different resources, tutorials and great shop!
 
 
 ## Others         <a name="Others"></a>
-* [XOD Visual Programming Arduino](https://www.youtube.com/watch?v=qxjLH_3US04&feature=youtu.be)
+* [XOD Visual Programming Arduino](https://www.youtube.com/watch?v=qxjLH_3US04&feature=youtu.be) Program Arduino in a very
+particular way through visual blocks.
 

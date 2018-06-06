@@ -13,6 +13,7 @@ After a few years collecting different resources of electronics and telecomunica
 * [Forums](#Forums)
 * [Projects](#Projects)
 * [Storing Components](#StoringComponents)
+* [Searching for Components](#SearchingComponents)
 * [Blogs](#Blogs)
 * [Others](#Others)
 
@@ -81,6 +82,10 @@ After a few years collecting different resources of electronics and telecomunica
 ## Storing Components     <a name="StoringComponents"></a>
 * [Partsbox.io](https://partsbox.io/)
 * [Reddit - Storing your electronic components](https://es.reddit.com/r/electronics/comments/7xz1vs/tip_storing_your_electronic_components/)
+
+## Searching for Components   <a name="SearchingComponents"></a>
+* [Octopart](https://octopart.com/)
+* [Findchips](https://www.findchips.com/)
 
 ## Blogs          <a name="Blogs"></a>
 * [Circuits.io](https://circuits.io/)

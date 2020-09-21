@@ -81,8 +81,9 @@ that cover everything for PCB desing.
 ### KiCad     <a name="KiCad"></a>
 * [B.A.Byrce - KiCad PCB Tutorial](http://babryce.com/kicad/tutorial.html) Short yet efficient KiCad tutorial that uses 
 an example to guide you thorugh all the proccess of creating a PCB.
-* [Contextual Electronics - Shine On You Crazy KiCad](https://www.youtube.com/user/contextualelectronic) Contextual Electronics
+* [Contextual Electronics - Shine On You Crazy KiCad](https://www.youtube.com/watch?v=BVhWh3AsXQs&list=PLy2022BX6EspFAKBCgRuEuzapuz_4aJCn) Contextual Electronics
 offers lots of KiCad video tutorials.
+* [AddOhms](https://www.youtube.com/watch?v=5fvdxd0QhTw&list=PLRIGIzu0Z7KllhKqPsNDwitjpK45SHoKg) Custom Arduino Design Series, Schematic, PCB, Test.
 
 ### Gerber Viewers
 * [gerbv](http://gerbv.geda-project.org/) Free and open source gerber viewer. Is a native Linux application, but also has an available version for Windows.

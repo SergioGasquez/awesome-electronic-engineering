@@ -1,4 +1,4 @@
-# Electronic Engineering Resouces
+# Electronic Engineering Resources
 After a few years collecting different resources I will try my best to group and sort them in this curated list of awesome electronics engineering stuff!
 
 

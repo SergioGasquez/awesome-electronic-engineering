@@ -54,6 +54,7 @@ videos where he replies to any question from the watchers.
 * [Andreas Spiess](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ) Projects and comparison of electronic devices.
 * [Jeremy Blum](https://www.youtube.com/user/sciguy14) Amazing Arduino tutorial series and projects.
 * [Proto G](https://www.youtube.com/user/garofalo42) Yet another interesting channel with lots of great projects.
+* [Phils Lab](https://www.youtube.com/c/PhilS94) Analog and digital electronics design, PCB design, control systems, digital signal processing, STM32, KiCad, RF, etc.
 
 ### Podcasts   <a name="Podcasts"></a>
 * [Internet of Things](https://iotpodcast.com/) Hosted by Stacey Higginbotham they discuss IoT topics and news

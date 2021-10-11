@@ -92,11 +92,10 @@ that covers everything for PCB design.
 - [Tracespace.io](http://viewer.tracespace.io/) - Online viewer that allows to seeing each layer isolated.
 
 ## Embedded Systems   <a name="Embedded"></a>
-- [Interrupt](https://interrupt.memfault.com/blog/)
-- [Embedded Artistry](https://embeddedartistry.com/)
-    - [Design Pattern Catalogue](https://embeddedartistry.com/fieldatlas/design-pattern-catalogue/)
-- [Jay Carlson: So you want to build an embedded system?](https://jaycarlson.net/embedded-linux/)
-- [Introduction to Embedded Linux: Buildroot, Yocto...](https://www.youtube.com/watch?v=9vsu67uMcko&list=PLEBQazB0HUyTpoJoZecRK6PpDG31Y7RPB&index=1)
+- [Interrupt](https://interrupt.memfault.com/blog/) - Blog from Memfault with lots of interesting embedded posts.
+- [Embedded Artistry](https://embeddedartistry.com/) - Website for embedded systems developers who are dedicated to excellence and continual improvement.
+- [Jay Carlson: So you want to build an embedded system?](https://jaycarlson.net/embedded-linux/) - Incredible post from Jay Carlson about embedded systems.
+- [Introduction to Embedded Linux: Buildroot, Yocto...](https://www.youtube.com/watch?v=9vsu67uMcko&list=PLEBQazB0HUyTpoJoZecRK6PpDG31Y7RPB&index=1) - YouTube playlist with that covers the basics of embedded systems.
 ## Forums <a name="Forums"></a>
 - [Electronics StackExchange.](https://electronics.stackexchange.com/) - Do you have any questions? 98% it will be already solved in here.
 - [/r/AskElectronics/](https://www.reddit.com/r/AskElectronics/) - Feel free to ask any question, gentle people will try their best to help you.

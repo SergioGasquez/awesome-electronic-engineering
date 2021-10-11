@@ -1,9 +1,29 @@
 # Contribution Guidelines
-This is a curated list of awesome Electonics Engineering resources, please, propose only content that you also find awesome.
 
-## Adding Content
-In order to add content, please open a pull request and try to follow the formating of the file, which is:
+Please note that this project is released with a
+[Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this
+project you agree to abide by its terms.
 
-`- [name](link) Description`
+---
 
-In case of adding a new section, make sure you update the Table of Contents.
+Ensure your pull request adheres to the following guidelines:
+
+- Follow the format convention:
+  - The link and description are separated by a dash.
+Example: `- [AVA](…) - JavaScript test runner.`
+The description starts with an uppercase character and ends with a period.
+  - Consistent and correct naming. For example, `Node.js`, not `NodeJS` or `node.js`.
+- Update the Table of Contents if it changed
+- And don't forget to check this
+
+Thank you for your suggestions!
+
+
+## Updating your PR
+
+A lot of times, making a PR adhere to the standards above can be difficult.
+If the maintainers notice anything that we'd like changed, we'll ask you to
+edit your PR before we merge it. There's no need to open a new PR, just edit
+the existing one. If you're not sure how to do that,
+[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
+on the different ways you can update your PR so that we can merge it.

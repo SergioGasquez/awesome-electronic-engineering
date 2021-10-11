@@ -26,7 +26,7 @@
 ## Learning Resources <a name="LearningResources"></a>
 
 ### Websites   <a name="Websites"></a>
-- [All About Circuits](https://www.allaboutcircuits.com/education/) - Offers a wide variety of learning resources including textbooks, video lectures and worksheets .
+- [All About Circuits](https://www.allaboutcircuits.com/education/) - Offers a wide variety of learning resources including textbooks, video lectures and worksheets.
 - [Electronics Tutorials](https://www.electronics-tutorials.ws/) - Very descriptive tutorials in many different fields of
 electronics.
 - [Electronics Club](https://electronicsclub.info/) - A website for anyone wishing to learn about electronics or build simple projects. Written for beginners but used by many others as a quick reference.
@@ -47,8 +47,7 @@ electronics.
 - [GreatScott!](https://www.youtube.com/user/greatscottlab) - GreatScott! offers from basics concepts to experiments in a very clear and explained way.
 - [EEVblog](https://www.youtube.com/user/EEVblog) - David L. Jones is one of the most known and wise electronics engineers and
 in his YouTube channel, you can find a lot of interesting videos about certain electronics concepts, reviews or even live
-videos where he replies to any question from the watchers.
-- [Add Ohms](https://www.youtube.com/user/AddOhms) - Mostly tutorials, explained in a very visual way.
+videos where he replies to any question fro .
 - [Andreas Spiess](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ) - Projects and comparison of electronic devices.
 - [Jeremy Blum](https://www.youtube.com/user/sciguy14) - Amazing Arduino tutorial series and projects.
 - [Proto G](https://www.youtube.com/user/garofalo42) - Yet another interesting channel with lots of great projects.

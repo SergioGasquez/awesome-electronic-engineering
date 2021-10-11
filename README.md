@@ -1,25 +1,27 @@
 # Electronic Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> awesome electronic engineering resources: Learning resources, circuits simulators, embedded systems, components...
+> awesome electronic engineering resources: Learning resources, circuits simulators, embedded systems, components and much more.
 
 ## Contents
-- [Learning Resources](#LearningResources)
-  - [Websites](#Websites)
-  - [Books](#Books) 
-  - [MOOCs](#Moocs)
-  - [Youtube Channels](#YoutubeChannels)
-  - [Podcasts](#Podcasts)
-- [Circuits Simulators](#CircuitsSimulators)
-- [PCB](#PCB)
-  - [General](#General)
-  - [KiCad](#KiCad)
-- [Embedded Systems](#Embedded)
-- [Forums](#Forums)
-- [Projects](#Projects)
-- [Storing Components](#StoringComponents)
-- [Searching for Components](#SearchingComponents)
-- [Blogs](#Blogs)
-- [Others](#Others)
+- [Learning Resources <a name="LearningResources"></a>](#learning-resources-)
+  - [Websites   <a name="Websites"></a>](#websites---)
+  - [Books  <a name="Books"></a>](#books--)
+  - [MOOCs  <a name="Moocs"></a>](#moocs--)
+  - [YouTube Channels   <a name="YouTubeChannels"></a>](#youtube-channels---)
+  - [Podcasts   <a name="Podcasts"></a>](#podcasts---)
+- [Circuits Simulators  <a name="CircuitsSimulators"></a>](#circuits-simulators--)
+- [PCB    <a name="PCB"></a>](#pcb----)
+  - [General     <a name="General"></a>](#general-----)
+  - [KiCad     <a name="KiCad"></a>](#kicad-----)
+  - [Gerber Viewers](#gerber-viewers)
+- [Embedded Systems   <a name="Embedded"></a>](#embedded-systems---)
+- [Forums <a name="Forums"></a>](#forums-)
+- [Projects   <a name="Projects"></a>](#projects---)
+- [Storing Components     <a name="StoringComponents"></a>](#storing-components-----)
+- [Searching engines of Components   <a name="SearchingComponents"></a>](#searching-engines-of-components---)
+- [Blogs          <a name="Blogs"></a>](#blogs----------)
+- [Others         <a name="Others"></a>](#others---------)
+- [Contribute](#contribute)
 
 ## Learning Resources <a name="LearningResources"></a>
 ### Websites   <a name="Websites"></a>
@@ -44,11 +46,11 @@ Lots of numerical examples are included.
 - [edX](https://www.edx.org/learn/electronics) - Explore between all kind of electronics online courses.
 - [coursera](https://www.coursera.org/browse/physical-science-and-engineering/electrical-engineering) - Great compilation of Coursera electrical engineering courses.
 
-### Youtube Channels   <a name="YoutubeChannels"></a>
+### YouTube Channels   <a name="YouTubeChannels"></a>
 - [GreatScott! ](https://www.youtube.com/user/greatscottlab) - GreatScott! offers from basics concepts to experiments in a very
 clear and explained way.
 - [EEVblog](https://www.youtube.com/user/EEVblog) - David L. Jones is one of the most known and wise electronics engineers and
-in his youtube channel, you can find a lot of interesting videos about certain electronics concepts, reviews or even live
+in his YouTube channel, you can find a lot of interesting videos about certain electronics concepts, reviews or even live
 videos where he replies to any question from the watchers.
 - [Add Ohms](https://www.youtube.com/user/AddOhms) - Mostly tutorials, explained in a very visual way.
 - [Andreas Spiess](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ) - Projects and comparison of electronic devices.
@@ -96,11 +98,11 @@ that covers everything for PCB design.
 - [Jay Carlson: So you want to build an embedded system?](https://jaycarlson.net/embedded-linux/)
 - [Introduction to Embedded Linux: Buildroot, Yocto...](https://www.youtube.com/watch?v=9vsu67uMcko&list=PLEBQazB0HUyTpoJoZecRK6PpDG31Y7RPB&index=1)
 ## Forums <a name="Forums"></a>
-- [Electronics StackExchange.](https://electronics.stackexchange.com/) - Do you have any questions? 98% it will be already solved in here!
+- [Electronics StackExchange.](https://electronics.stackexchange.com/) - Do you have any questions? 98% it will be already solved in here.
 - [/r/AskElectronics/](https://www.reddit.com/r/AskElectronics/) - Feel free to ask any question, gentle people will try their best to help you.
 - [/r/ECE/](https://www.reddit.com/r/ECE/) - Discussion of all things related to electrical and computer engineering.
 - [/r/electronic_circuits/](https://www.reddit.com/r/electronic_circuits/) - Place to discuss diagrams and schematics of any circuit.
-- [/r/ElectricalEngineering/](https://www.reddit.com//r/ElectricalEngineering/)
+- [/r/ElectricalEngineering/](https://www.reddit.com//r/ElectricalEngineering/) - Subreddit for Electrical Engineering
 - [/r/electronics/](https://www.reddit.com/r/electronics/) - Subreddit dedicated to news, articles and discussions related to electronic systems and circuits.
 - [/r/arduino](https://www.reddit.com/r/arduino/) - A place for any Arduino discussion
 - [/r/ArduinoProjects/](https://www.reddit.com/r/ArduinoProjects/) - Show your Arduino project or get amazed by others projects.

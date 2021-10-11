@@ -1,4 +1,4 @@
-# Electronic Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Electronic Engineering <!-- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) -->
 
 > awesome electronic engineering resources: Learning resources, circuits simulators, embedded systems, components and much more.
 

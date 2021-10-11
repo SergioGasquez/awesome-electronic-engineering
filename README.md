@@ -44,8 +44,7 @@ electronics.
 - [coursera](https://www.coursera.org/browse/physical-science-and-engineering/electrical-engineering) - Great compilation of Coursera electrical engineering courses.
 
 ### YouTube Channels   <a name="YouTubeChannels"></a>
-- [GreatScott! ](https://www.youtube.com/user/greatscottlab) - GreatScott! offers from basics concepts to experiments in a very
-clear and explained way.
+- [GreatScott! ](https://www.youtube.com/user/greatscottlab) - GreatScott! offers from basics concepts to experiments in a very clear and explained way.
 - [EEVblog](https://www.youtube.com/user/EEVblog) - David L. Jones is one of the most known and wise electronics engineers and
 in his YouTube channel, you can find a lot of interesting videos about certain electronics concepts, reviews or even live
 videos where he replies to any question from the watchers.
@@ -57,9 +56,8 @@ videos where he replies to any question from the watchers.
 - [Introduction to Embedded Linux: Buildroot, Yocto...](https://www.youtube.com/watch?v=9vsu67uMcko&list=PLEBQazB0HUyTpoJoZecRK6PpDG31Y7RPB&index=1) - YouTube playlist with that covers the basics of embedded systems.
 
 ### Podcasts   <a name="Podcasts"></a>
-- [Internet of Things](https://iotpodcast.com/) - Hosted by Stacey Higginbotham they discuss IoT topics and news
-- [The Amp Hour](https://theamphour.com/tag/contextual-electronics/) - Podcast by Contextual Electronics with lots of interviews
-to important engineers.
+- [Internet of Things](https://iotpodcast.com/) - Hosted by Stacey Higginbotham they discuss IoT topics and news.
+- [The Amp Hour](https://theamphour.com/tag/contextual-electronics/) - Podcast by Contextual Electronics with lots of interviews to important engineers.
 - [MIT Open Courseware - Circuits and Electronics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/) - MIT course of an introduction to circuits and electronics.
 - [Programming Electronics Academy Podcast](https://programmingelectronics.com/oshpodcast/) - Podcast focused on how to programm embedded systems.
 
@@ -94,7 +92,7 @@ to important engineers.
 - [/r/electronic_circuits/](https://www.reddit.com/r/electronic_circuits/) - Place to discuss diagrams and schematics of any circuit.
 - [/r/ElectricalEngineering/](https://www.reddit.com//r/ElectricalEngineering/) - Subreddit for Electrical Engineering
 - [/r/electronics/](https://www.reddit.com/r/electronics/) - Subreddit dedicated to news, articles and discussions related to electronic systems and circuits.
-- [/r/arduino](https://www.reddit.com/r/arduino/) - A place for any Arduino discussion
+- [/r/arduino](https://www.reddit.com/r/arduino/) - A place for any Arduino discussion.
 - [/r/ArduinoProjects/](https://www.reddit.com/r/ArduinoProjects/) - Show your Arduino project or get amazed by others projects.
 
 ## Projects   <a name="Projects"></a>

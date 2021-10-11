@@ -44,7 +44,7 @@ electronics.
 - [coursera](https://www.coursera.org/browse/physical-science-and-engineering/electrical-engineering) - Great compilation of Coursera electrical engineering courses.
 
 ### YouTube Channels   <a name="YouTubeChannels"></a>
-- [GreatScott! ](https://www.youtube.com/user/greatscottlab) - GreatScott! offers from basics concepts to experiments in a very clear and explained way.
+- [GreatScott!](https://www.youtube.com/user/greatscottlab) - GreatScott! offers from basics concepts to experiments in a very clear and explained way.
 - [EEVblog](https://www.youtube.com/user/EEVblog) - David L. Jones is one of the most known and wise electronics engineers and
 in his YouTube channel, you can find a lot of interesting videos about certain electronics concepts, reviews or even live
 videos where he replies to any question from the watchers.
@@ -90,7 +90,7 @@ videos where he replies to any question from the watchers.
 - [/r/AskElectronics/](https://www.reddit.com/r/AskElectronics/) - Feel free to ask any question, gentle people will try their best to help you.
 - [/r/ECE/](https://www.reddit.com/r/ECE/) - Discussion of all things related to electrical and computer engineering.
 - [/r/electronic_circuits/](https://www.reddit.com/r/electronic_circuits/) - Place to discuss diagrams and schematics of any circuit.
-- [/r/ElectricalEngineering/](https://www.reddit.com//r/ElectricalEngineering/) - Subreddit for Electrical Engineering
+- [/r/ElectricalEngineering/](https://www.reddit.com//r/ElectricalEngineering/) - Subreddit for Electrical Engineering.
 - [/r/electronics/](https://www.reddit.com/r/electronics/) - Subreddit dedicated to news, articles and discussions related to electronic systems and circuits.
 - [/r/arduino](https://www.reddit.com/r/arduino/) - A place for any Arduino discussion.
 - [/r/ArduinoProjects/](https://www.reddit.com/r/ArduinoProjects/) - Show your Arduino project or get amazed by others projects.

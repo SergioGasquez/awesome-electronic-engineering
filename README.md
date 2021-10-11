@@ -25,18 +25,16 @@
 
 ## Learning Resources <a name="LearningResources"></a>
 ### Websites   <a name="Websites"></a>
-- [All About Circuits](https://www.allaboutcircuits.com/education/) - Offers a wide variety of learning resources including
-textbooks, video lectures and worksheets .
+- [All About Circuits](https://www.allaboutcircuits.com/education/) - Offers a wide variety of learning resources including textbooks, video lectures and worksheets .
 - [Electronics Tutorials](https://www.electronics-tutorials.ws/) - Very descriptive tutorials in many different fields of
 electronics.
 - [Electronics Club](https://electronicsclub.info/) - A website for anyone wishing to learn about electronics or build simple projects. Written for beginners but used by many others as a quick reference.
 
 ### Books  <a name="Books"></a>
-- [Paul and Winfield - The Art Of Electronics](https://pearl-hifi.com/06_Lit_Archive/14_Books_Tech_Papers/Horowitz-Hill/The_Art_of_Electronics.pdf) - The most popular and important book that every Electronic Engineer should have it avaliable
-at any time.
+- [Paul and Winfield - The Art Of Electronics](https://pearl-hifi.com/06_Lit_Archive/14_Books_Tech_Papers/Horowitz-Hill/The_Art_of_Electronics.pdf) - The most popular and important book, every Electronic Engineer should read it.
 - [Sedra and Smith - Microelectronic Circuits](https://www.dropbox.com/s/d1tasdkd5u6serm/Sedra%20Smith%20-%20Microelectronic%20Circuits%20-%205th%20Edition.pdf?dl=0) - Explains every microelectronics topic in a very lucid manner.
 - [Agarwal and Lang - Foundations of Analog and Digital](https://www.dropbox.com/s/g09ot8yzsp1dmrd/Agarwal%20and%20Lang%20-%20Foundations%20of%20Analog%20and%20Digital%20-%202005.pdf?dl=0) - Title is very self-explanatory, explains the basics of
-digital and analog electronics.
+digital and analogue electronics.
 - [Hayt Kemmerly - Engineering Circuit Analysis](https://www.dropbox.com/s/zoyywgy0tgdz7my/Hayt%20Kemmerly%20-%20Engineering%20Circuit%20Analysis.pdf?dl=0) - Made for students, it explains circuit analysis in a very clear way.
 Lots of numerical examples are included.
 - [Darren Ashby - Electrical Engineering 101](https://www.dropbox.com/s/cv5nk91ow8jsjp7/Darren%20Ashby%20-%20Electrical%20Engineering%20101%20-%203rd%20Edition.pdf?dl=0) - Basic theory and practice of electronics.
@@ -68,10 +66,9 @@ embedded systems.
 
 ## Circuits Simulators  <a name="CircuitsSimulators"></a>
 - [PartSim](https://www.partsim.com/simulator) - Online simulator with all the basics functions.
-- [LTspice](http://www.analog.com/en/design-center/design-tools-and-calculators.html) - Free sotfware with a great variety of desing
-simulation tools.
+- [LTspice](http://www.analog.com/en/design-center/design-tools-and-calculators.html) - Free software with a great variety of design simulation tools.
 - [NI MultiSIM](http://sine.ni.com/nips/cds/view/p/lang/en/nid/201800) - Very intuitive and has just about any feature you could want including PCB layout.
-- [OrCAD PSpice](https://www.orcad.com/resources/orcad-downloads) - As a student you can get a student version for free. Is very
+- [OrCAD PSpice](https://www.orcad.com/resources/orcad-downloads) - If you are student, you can get a student version for free. Is very
 powerful and with lots of great tools.
 
 ## PCB    <a name="PCB"></a>
@@ -87,8 +84,8 @@ that covers everything for PCB design.
 - [AddOhms](https://www.youtube.com/watch?v=5fvdxd0QhTw&list=PLRIGIzu0Z7KllhKqPsNDwitjpK45SHoKg) - Custom Arduino Design Series, Schematic, PCB, Test.
 
 ### Gerber Viewers
-- [gerbv](http://gerbv.geda-project.org/) - Free and open source gerber viewer. Is a native Linux application, but also has an available version for Windows.
-- [Reference Gerber Viewer](https://gerber.ucamco.com/) - Free and online gerber viewer developed by Ucamco.
+- [gerbv](http://gerbv.geda-project.org/) - Free and open source Gerber viewer. Is a native Linux application, but also has an available version for Windows.
+- [Reference Gerber Viewer](https://gerber.ucamco.com/) - Free and online Gerber viewer developed by Ucamco.
 - [Tracespace.io](http://viewer.tracespace.io/) - Online viewer that allows to seeing each layer isolated.
 
 ## Embedded Systems   <a name="Embedded"></a>

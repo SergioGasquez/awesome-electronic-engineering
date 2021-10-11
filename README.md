@@ -3,6 +3,7 @@
 > awesome electronic engineering resources: Learning resources, circuits simulators, embedded systems, components and much more.
 
 ## Contents
+
 - [Learning Resources <a name="LearningResources"></a>](#learning-resources-)
   - [Websites   <a name="Websites"></a>](#websites---)
   - [Books  <a name="Books"></a>](#books--)
@@ -14,7 +15,6 @@
   - [General     <a name="General"></a>](#general-----)
   - [KiCad     <a name="KiCad"></a>](#kicad-----)
   - [Gerber Viewers](#gerber-viewers)
-- [Embedded Systems   <a name="Embedded"></a>](#embedded-systems---)
 - [Forums <a name="Forums"></a>](#forums-)
 - [Projects   <a name="Projects"></a>](#projects---)
 - [Storing Components     <a name="StoringComponents"></a>](#storing-components-----)
@@ -24,6 +24,7 @@
 - [Contribute](#contribute)
 
 ## Learning Resources <a name="LearningResources"></a>
+
 ### Websites   <a name="Websites"></a>
 - [All About Circuits](https://www.allaboutcircuits.com/education/) - Offers a wide variety of learning resources including textbooks, video lectures and worksheets .
 - [Electronics Tutorials](https://www.electronics-tutorials.ws/) - Very descriptive tutorials in many different fields of
@@ -33,10 +34,8 @@ electronics.
 ### Books  <a name="Books"></a>
 - [Paul and Winfield - The Art Of Electronics](https://pearl-hifi.com/06_Lit_Archive/14_Books_Tech_Papers/Horowitz-Hill/The_Art_of_Electronics.pdf) - The most popular and important book, every Electronic Engineer should read it.
 - [Sedra and Smith - Microelectronic Circuits](https://www.dropbox.com/s/d1tasdkd5u6serm/Sedra%20Smith%20-%20Microelectronic%20Circuits%20-%205th%20Edition.pdf?dl=0) - Explains every microelectronics topic in a very lucid manner.
-- [Agarwal and Lang - Foundations of Analog and Digital](https://www.dropbox.com/s/g09ot8yzsp1dmrd/Agarwal%20and%20Lang%20-%20Foundations%20of%20Analog%20and%20Digital%20-%202005.pdf?dl=0) - Title is very self-explanatory, explains the basics of
-digital and analogue electronics.
-- [Hayt Kemmerly - Engineering Circuit Analysis](https://www.dropbox.com/s/zoyywgy0tgdz7my/Hayt%20Kemmerly%20-%20Engineering%20Circuit%20Analysis.pdf?dl=0) - Made for students, it explains circuit analysis in a very clear way.
-Lots of numerical examples are included.
+- [Agarwal and Lang - Foundations of Analog and Digital](https://www.dropbox.com/s/g09ot8yzsp1dmrd/Agarwal%20and%20Lang%20-%20Foundations%20of%20Analog%20and%20Digital%20-%202005.pdf?dl=0) - Title is very self-explanatory, explains the basics of digital and analogue electronics.
+- [Hayt Kemmerly - Engineering Circuit Analysis](https://www.dropbox.com/s/zoyywgy0tgdz7my/Hayt%20Kemmerly%20-%20Engineering%20Circuit%20Analysis.pdf?dl=0) - Made for students, it explains circuit analysis in a very clear way. Lots of numerical examples are included.
 - [Darren Ashby - Electrical Engineering 101](https://www.dropbox.com/s/cv5nk91ow8jsjp7/Darren%20Ashby%20-%20Electrical%20Engineering%20101%20-%203rd%20Edition.pdf?dl=0) - Basic theory and practice of electronics.
 
 ### MOOCs  <a name="Moocs"></a>
@@ -55,27 +54,26 @@ videos where he replies to any question from the watchers.
 - [Jeremy Blum](https://www.youtube.com/user/sciguy14) - Amazing Arduino tutorial series and projects.
 - [Proto G](https://www.youtube.com/user/garofalo42) - Yet another interesting channel with lots of great projects.
 - [Phils Lab](https://www.youtube.com/c/PhilS94) - Analog and digital electronics design, PCB design, control systems, digital signal processing, STM32, KiCad, RF, etc.
+- [Introduction to Embedded Linux: Buildroot, Yocto...](https://www.youtube.com/watch?v=9vsu67uMcko&list=PLEBQazB0HUyTpoJoZecRK6PpDG31Y7RPB&index=1) - YouTube playlist with that covers the basics of embedded systems.
 
 ### Podcasts   <a name="Podcasts"></a>
 - [Internet of Things](https://iotpodcast.com/) - Hosted by Stacey Higginbotham they discuss IoT topics and news
 - [The Amp Hour](https://theamphour.com/tag/contextual-electronics/) - Podcast by Contextual Electronics with lots of interviews
 to important engineers.
 - [MIT Open Courseware - Circuits and Electronics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/) - MIT course of an introduction to circuits and electronics.
-- [Programming Electronics Academy Podcast](https://programmingelectronics.com/oshpodcast/) - Podcast focused on how to programm
-embedded systems.
+- [Programming Electronics Academy Podcast](https://programmingelectronics.com/oshpodcast/) - Podcast focused on how to programm embedded systems.
 
 ## Circuits Simulators  <a name="CircuitsSimulators"></a>
+
 - [PartSim](https://www.partsim.com/simulator) - Online simulator with all the basics functions.
 - [LTspice](http://www.analog.com/en/design-center/design-tools-and-calculators.html) - Free software with a great variety of design simulation tools.
 - [NI MultiSIM](http://sine.ni.com/nips/cds/view/p/lang/en/nid/201800) - Very intuitive and has just about any feature you could want including PCB layout.
-- [OrCAD PSpice](https://www.orcad.com/resources/orcad-downloads) - If you are student, you can get a student version for free. Is very
-powerful and with lots of great tools.
+- [OrCAD PSpice](https://www.orcad.com/resources/orcad-downloads) - If you are student, you can get a student version for free. Is very powerful and with lots of great tools.
 
 ## PCB    <a name="PCB"></a>
 ### General     <a name="General"></a>
 - [Top 5 PCB Design Guidelines Every PCB Designer Needs to Know](https://resources.altium.com/pcb-design-blog/top-pcb-design-guidelines-every-pcb-designer-needs-to-know) - General guidelines to design PCBs.
-- [EEVblog - PCB Desing Tutorial](http://www.alternatezone.com/electronics/files/PCBDesignTutorialRevA.pdf) - Long and detailed guide
-that covers everything for PCB design.
+- [EEVblog - PCB Desing Tutorial](http://www.alternatezone.com/electronics/files/PCBDesignTutorialRevA.pdf) - Long and detailed guide that covers everything about PCB design.
 - [CABLAB.io](https://cadlab.io/) - Git Version Control for Eagle PCB Design.
 
 ### KiCad     <a name="KiCad"></a>
@@ -88,12 +86,8 @@ that covers everything for PCB design.
 - [Reference Gerber Viewer](https://gerber.ucamco.com/) - Free and online Gerber viewer developed by Ucamco.
 - [Tracespace.io](http://viewer.tracespace.io/) - Online viewer that allows to seeing each layer isolated.
 
-## Embedded Systems   <a name="Embedded"></a>
-- [Interrupt](https://interrupt.memfault.com/blog/) - Blog from Memfault with lots of interesting embedded posts.
-- [Embedded Artistry](https://embeddedartistry.com/) - Website for embedded systems developers who are dedicated to excellence and continual improvement.
-- [Jay Carlson: So you want to build an embedded system?](https://jaycarlson.net/embedded-linux/) - Incredible post from Jay Carlson about embedded systems.
-- [Introduction to Embedded Linux: Buildroot, Yocto...](https://www.youtube.com/watch?v=9vsu67uMcko&list=PLEBQazB0HUyTpoJoZecRK6PpDG31Y7RPB&index=1) - YouTube playlist with that covers the basics of embedded systems.
 ## Forums <a name="Forums"></a>
+
 - [Electronics StackExchange.](https://electronics.stackexchange.com/) - Do you have any questions? 98% it will be already solved in here.
 - [/r/AskElectronics/](https://www.reddit.com/r/AskElectronics/) - Feel free to ask any question, gentle people will try their best to help you.
 - [/r/ECE/](https://www.reddit.com/r/ECE/) - Discussion of all things related to electrical and computer engineering.
@@ -104,31 +98,36 @@ that covers everything for PCB design.
 - [/r/ArduinoProjects/](https://www.reddit.com/r/ArduinoProjects/) - Show your Arduino project or get amazed by others projects.
 
 ## Projects   <a name="Projects"></a>
+
 - [Instructables](http://www.instructables.com/technology/) - You can find any kind of electronics project.
-- [Hackter.io](https://www.hackster.io/projects) - Platform to search and upload electronics projects, they also host lots
-of projects contests with greats rewards.
+- [Hackter.io](https://www.hackster.io/projects) - Platform to search and upload electronics projects, they also host lots of projects contests with greats rewards.
 - [Hackaday.io](https://hackaday.io/projects) - This popular blog also host a project sharing page.
 - [Electronics Projects Hub](https://electronicsprojectshub.com/) - Small site with great projects.
 
 ## Storing Components     <a name="StoringComponents"></a>
+
 - [Partsbox.io](https://partsbox.io/) - They offer a very innovative and great way to keep track of your electronics parts.
 - [Reddit - Storing your electronic components](https://es.reddit.com/r/electronics/comments/7xz1vs/tip_storing_your_electronic_components/) - Reddit thread with lots of ways to store your components.
 
 ## Searching engines of Components   <a name="SearchingComponents"></a>
+
 - [Octopart](https://octopart.com/) - Find any component by its description, part number or category.
 - [Findchips](https://www.findchips.com/) - Get instant insight into any electronic component.
 
 ## Blogs          <a name="Blogs"></a>
+
 - [Circuits.io](https://circuits.io/) - Ideal for simulations and tutorials.
+- [Interrupt](https://interrupt.memfault.com/blog/) - Blog from Memfault with lots of interesting embedded posts.
+- [Embedded Artistry](https://embeddedartistry.com/) - Website for embedded systems developers who are dedicated to excellence and continual improvement.
 - [Microwaves & RF](http://www.mwrf.com/) - News related to microelectronics and RF.
 - [EDN Network](https://www.edn.com/) - All kinds of electronics news.
 - [SparkFun](https://www.sparkfun.com/) - Bunch of different resources, tutorials and a great shop!
-
+- [Jay Carlson: So you want to build an embedded system?](https://jaycarlson.net/embedded-linux/) - Incredible post from Jay Carlson about embedded systems.
 ## Others         <a name="Others"></a>
+
 - [Soldering is easy](http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf) - Soldering comic guide that teaches everything you need to know to become a master of soldering.
 - [Fritzing](http://fritzing.org/home/) - Open source hardware that includes schematic capture and breadboard layout applications.
-- [XOD Visual Programming Arduino](https://www.youtube.com/watch?v=qxjLH_3US04&feature=youtu.be) - Program Arduino in a very
-particular way through visual blocks.
+- [XOD Visual Programming Arduino](https://www.youtube.com/watch?v=qxjLH_3US04&feature=youtu.be) - Program Arduino in a very particular way through visual blocks.
 
 ## Contribute
 

@@ -20,6 +20,7 @@
 - [Storing Components     <a name="StoringComponents"></a>](#storing-components-----)
 - [Searching engines of Components   <a name="SearchingComponents"></a>](#searching-engines-of-components---)
 - [Blogs          <a name="Blogs"></a>](#blogs----------)
+- [Interview Questions          <a name="Interview"></a>](#interview----------)
 - [Others         <a name="Others"></a>](#others---------)
 - [Contribute](#contribute)
 
@@ -120,6 +121,14 @@ videos where he replies to any question fro .
 - [EDN Network](https://www.edn.com/) - All kinds of electronics news.
 - [SparkFun](https://www.sparkfun.com/) - Bunch of different resources, tutorials and a great shop!
 - [Jay Carlson: So you want to build an embedded system?](https://jaycarlson.net/embedded-linux/) - Incredible post from Jay Carlson about embedded systems.
+
+## Interview Questions   <a name="Interview"></a>
+- [A C Test: The 0x10 Best Questions for Would-be Embedded Programmers](https://rmbconsulting.us/publications/a-c-test-the-0x10-best-questions-for-would-be-embedded-programmers/) - Interesting embedded C interview questions.
+- [Interview Question Breakdown: Bad C Analysis](https://embeddedartistry.com/blog/2017/06/05/interview-question-breakdown-bad-c-analysis/) - Set of interview questions based on a C problem.
+- [Embedded c interview questions and answers](https://aticleworld.com/embedded-c-interview-questions-2/) - 100 Embedded C short interview questions.
+- [Embedded Interview Questions](https://docs.google.com/document/d/18HMyd-lFu1hWiixFLS2Pc7-SgyzDDqitzXbfAnUVeBE/edit#heading=h.pvyrqg4xft42) - Embeeded questions from OS to communication protocols.
+- [What are some more obscure interview questions for embedded positions?](https://www.reddit.com/r/embedded/comments/bqoqpr/what_are_some_more_obscure_interview_questions/) - r/embedded thread with lots of interesting interview questions.
+
 ## Others         <a name="Others"></a>
 
 - [Soldering is easy](http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf) - Soldering comic guide that teaches everything you need to know to become a master of soldering.

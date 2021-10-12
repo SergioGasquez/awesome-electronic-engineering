@@ -20,7 +20,7 @@
 - [Storing Components](#storing-components)
 - [Searching engines of Components](#searching-engines-of-components)
 - [Blogs](#blogs)
-- [Interview Questions](#interview-quesitons)
+- [Interview Questions](#interview-questions)
 - [Others](#others)
 - [Contribute](#contribute)
 
@@ -64,10 +64,7 @@ videos where he replies to any question fro .
 ## Circuits Simulators ##
 
 - [PartSim](https://www.partsim.com/simulator) - Online simulator with all the basics functions.
-- [LTspice](http://www.analog.com/en/design-center/design-tools-and-calculators.html) - Free software with a great variety of design simulation tools.
-- [NI MultiSIM](http://sine.ni.com/nips/cds/view/p/lang/en/nid/201800) - Very intuitive and has just about any feature you could want including PCB layout.
-- [OrCAD PSpice](https://www.orcad.com/resources/orcad-downloads) - If you are student, you can get a student version for free. Is very powerful and with lots of great tools.
-
+- [LTspice](http://www.analog.com/en/design-center/design-tools-and-calculators.html) - Free software with a great variety of design simulation tools.-
 ## PCB ##
 ### General ###
 - [Top 5 PCB Design Guidelines Every PCB Designer Needs to Know](https://resources.altium.com/pcb-design-blog/top-pcb-design-guidelines-every-pcb-designer-needs-to-know) - General guidelines to design PCBs.

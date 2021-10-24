@@ -31,6 +31,7 @@
 - [Electronics Tutorials](https://www.electronics-tutorials.ws/) - Very descriptive tutorials in many different fields of
 electronics.
 - [Electronics Club](https://electronicsclub.info/) - A website for anyone wishing to learn about electronics or build simple projects. Written for beginners but used by many others as a quick reference.
+- [Adafruit Learning System](https://learn.adafruit.com/) - It provides a good bit of documentations for a lot of their products, various projects and topics. While these articles tend to geared to beginners and hobbyists, it provides a good resource to discover a new topic.
 
 ### Books ###
 - [Paul and Winfield - The Art Of Electronics](https://pearl-hifi.com/06_Lit_Archive/14_Books_Tech_Papers/Horowitz-Hill/The_Art_of_Electronics.pdf) - The most popular and important book, every Electronic Engineer should read it.
@@ -65,11 +66,14 @@ videos where he replies to any question fro .
 
 - [PartSim](https://www.partsim.com/simulator) - Online simulator with all the basics functions.
 - [LTspice](http://www.analog.com/en/design-center/design-tools-and-calculators.html) - Free software with a great variety of design simulation tools.-
+
 ## PCB ##
+
 ### General ###
 - [Top 5 PCB Design Guidelines Every PCB Designer Needs to Know](https://resources.altium.com/pcb-design-blog/top-pcb-design-guidelines-every-pcb-designer-needs-to-know) - General guidelines to design PCBs.
 - [EEVblog - PCB Desing Tutorial](http://www.alternatezone.com/electronics/files/PCBDesignTutorialRevA.pdf) - Long and detailed guide that covers everything about PCB design.
 - [CABLAB.io](https://cadlab.io/) - Git Version Control for Eagle PCB Design.
+- [UPVERTER](https://upverter.com/) - UPVERTER is a cloud based circuit board design tool (aka EDA). It can assist with developing schematics, PCB layouts, bills of materials, and gerber files.
 
 ### KiCad ###
 - [B.A.Byrce - KiCad PCB Tutorial](http://babryce.com/kicad/tutorial.html) - Short yet efficient KiCad tutorial that uses an example to guide you through all the processes of creating a PCB.
@@ -131,7 +135,8 @@ videos where he replies to any question fro .
 - [Soldering is easy](http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf) - Soldering comic guide that teaches everything you need to know to become a master of soldering.
 - [Fritzing](http://fritzing.org/home/) - Open source hardware that includes schematic capture and breadboard layout applications.
 - [XOD Visual Programming Arduino](https://www.youtube.com/watch?v=qxjLH_3US04&feature=youtu.be) - Program Arduino in a very particular way through visual blocks.
+- [Electronics Weekly](https://www.electronicsweekly.com/) - Electronics Weekly is a good resource for those looking for industry-related news. There are topics in business, design, products, and so much more which are all directly related to electrical engineering. You can also use it to view available jobs or post jobs yourself.
 
 ## Contribute ##
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.

@@ -18,7 +18,7 @@
 - [Forums](#forums)
 - [Projects](#projects)
 - [Storing Components](#storing-components)
-- [Searching engines of Components](#searching-engines-of-components)
+- [Searching Engines of Components](#searching-engines-of-components)
 - [Blogs](#blogs)
 - [Interview Questions](#interview-questions)
 - [Others](#others)
@@ -108,7 +108,7 @@ videos where he replies to any question fro .
 - [Partsbox.io](https://partsbox.io/) - They offer a very innovative and great way to keep track of your electronics parts.
 - [Reddit - Storing your electronic components](https://es.reddit.com/r/electronics/comments/7xz1vs/tip_storing_your_electronic_components/) - Reddit thread with lots of ways to store your components.
 
-## Searching engines of Components ##
+## Searching Engines of Components ##
 
 - [Octopart](https://octopart.com/) - Find any component by its description, part number or category.
 - [Findchips](https://www.findchips.com/) - Get instant insight into any electronic component.

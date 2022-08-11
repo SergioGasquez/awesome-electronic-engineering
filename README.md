@@ -34,7 +34,7 @@ electronics.
 - [Adafruit Learning System](https://learn.adafruit.com/) - It provides a good bit of documentations for a lot of their products, various projects and topics. While these articles tend to geared to beginners and hobbyists, it provides a good resource to discover a new topic.
 
 ### Books ###
-- [Paul and Winfield - The Art Of Electronics](https://pearl-hifi.com/06_Lit_Archive/14_Books_Tech_Papers/Horowitz-Hill/The_Art_of_Electronics.pdf) - The most popular and important book, every Electronic Engineer should read it.
+- [Paul and Winfield - The Art Of Electronics](https://www.uvm.edu/~gpetrucc/courses/Chem219/Lectures/Paul%20Horowitz,%20Winfield%20Hill%20-%20The%20Art%20of%20Electronics-Cambridge%20University%20Press%20(2015).pdf) - The most popular and important book, every Electronic Engineer should read it.
 - [Sedra and Smith - Microelectronic Circuits](https://www.dropbox.com/s/d1tasdkd5u6serm/Sedra%20Smith%20-%20Microelectronic%20Circuits%20-%205th%20Edition.pdf?dl=0) - Explains every microelectronics topic in a very lucid manner.
 - [Agarwal and Lang - Foundations of Analog and Digital](https://www.dropbox.com/s/g09ot8yzsp1dmrd/Agarwal%20and%20Lang%20-%20Foundations%20of%20Analog%20and%20Digital%20-%202005.pdf?dl=0) - Title is very self-explanatory, explains the basics of digital and analogue electronics.
 - [Hayt Kemmerly - Engineering Circuit Analysis](https://www.dropbox.com/s/zoyywgy0tgdz7my/Hayt%20Kemmerly%20-%20Engineering%20Circuit%20Analysis.pdf?dl=0) - Made for students, it explains circuit analysis in a very clear way. Lots of numerical examples are included.

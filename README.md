@@ -64,7 +64,6 @@ videos where he replies to any question fro .
 
 ## Circuits Simulators ##
 
-- [PartSim](https://www.partsim.com/simulator) - Online simulator with all the basics functions.
 - [LTspice](http://www.analog.com/en/design-center/design-tools-and-calculators.html) - Free software with a great variety of design simulation tools.-
 
 ## PCB ##

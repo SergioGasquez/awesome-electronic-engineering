@@ -27,6 +27,7 @@
 ## Learning Resources ##
 
 ### Websites ###
+- [AirgapFlux](https://explore.airgapflux.in/) -  A collection of electrical (power and energy) and electronic engineering (+control and DSP) resources.
 - [All About Circuits](https://www.allaboutcircuits.com/education/) - Offers a wide variety of learning resources including textbooks, video lectures and worksheets.
 - [Electronics Tutorials](https://www.electronics-tutorials.ws/) - Very descriptive tutorials in many different fields of
 electronics.

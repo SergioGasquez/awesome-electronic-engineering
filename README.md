@@ -65,7 +65,7 @@ videos where he replies to any question fro .
 
 ## Circuits Simulators ##
 
-- [LTspice](http://www.analog.com/en/design-center/design-tools-and-calculators.html) - Free software with a great variety of design simulation tools.-
+- [LTspice](http://www.analog.com/en/design-center/design-tools-and-calculators.html) - Free software with a great variety of design simulation tools.
 
 ## PCB ##
 

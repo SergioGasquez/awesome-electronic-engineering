@@ -45,6 +45,7 @@ electronics.
 - [MOOC LIST](https://www.mooc-list.com/categories/eng-electronics) - MOOC search engine that gathers electronics courses from all online MOOC platforms.
 - [edX](https://www.edx.org/learn/electronics) - Explore between all kind of electronics online courses.
 - [coursera](https://www.coursera.org/browse/physical-science-and-engineering/electrical-engineering) - Great compilation of Coursera electrical engineering courses.
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ### YouTube Channels ###
 - [GreatScott!](https://www.youtube.com/user/greatscottlab) - GreatScott! offers from basics concepts to experiments in a very clear and explained way.

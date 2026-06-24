@@ -85,6 +85,7 @@ videos where he replies to any question fro .
 - [gerbv](http://gerbv.geda-project.org/) - Free and open source Gerber viewer. Is a native Linux application, but also has an available version for Windows.
 - [Reference Gerber Viewer](https://gerber.ucamco.com/) - Free and online Gerber viewer developed by Ucamco.
 - [Tracespace.io](http://viewer.tracespace.io/) - Online viewer that allows to seeing each layer isolated.
+- [Salitronic Gerber Analyzer](https://salitronic.com/gerber_analyzer) - Free in-browser viewer for Gerber, ODB++ and IPC-2581. Shows each layer and the assembled board, and runs a DRC, a layer diff and a pick-and-place view. No install or sign-up.
 
 ## Forums ##
 

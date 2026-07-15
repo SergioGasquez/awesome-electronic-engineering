@@ -75,6 +75,7 @@ videos where he replies to any question fro .
 - [EEVblog - PCB Desing Tutorial](http://www.alternatezone.com/electronics/files/PCBDesignTutorialRevA.pdf) - Long and detailed guide that covers everything about PCB design.
 - [CABLAB.io](https://cadlab.io/) - Git Version Control for Eagle PCB Design.
 - [UPVERTER](https://upverter.com/) - UPVERTER is a cloud based circuit board design tool (aka EDA). It can assist with developing schematics, PCB layouts, bills of materials, and gerber files.
+- [PCB Bring-Up Checklist](https://pcbwiki.com/learn/pcb-bring-up-checklist) - A source-bounded, nine-stage workflow for inspection, controlled first power, rail checks, programming, interfaces, thermal checks, and a reproducible known-good baseline.
 
 ### KiCad ###
 - [B.A.Byrce - KiCad PCB Tutorial](http://babryce.com/kicad/tutorial.html) - Short yet efficient KiCad tutorial that uses an example to guide you through all the processes of creating a PCB.

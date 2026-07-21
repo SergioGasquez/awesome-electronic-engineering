@@ -33,6 +33,7 @@
 electronics.
 - [Electronics Club](https://electronicsclub.info/) - A website for anyone wishing to learn about electronics or build simple projects. Written for beginners but used by many others as a quick reference.
 - [Adafruit Learning System](https://learn.adafruit.com/) - It provides a good bit of documentations for a lot of their products, various projects and topics. While these articles tend to geared to beginners and hobbyists, it provides a good resource to discover a new topic.
+- [DistroForge Learn](https://distroforge.com/learn) - Free courses on how the electric distribution grid works: AC power, transformers, protection coordination, reliability, and field safety.
 
 ### Books ###
 - [Paul and Winfield - The Art Of Electronics](https://www.uvm.edu/~gpetrucc/courses/Chem219/Lectures/Paul%20Horowitz,%20Winfield%20Hill%20-%20The%20Art%20of%20Electronics-Cambridge%20University%20Press%20(2015).pdf) - The most popular and important book, every Electronic Engineer should read it.

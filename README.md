@@ -20,6 +20,7 @@
 - [Storing Components](#storing-components)
 - [Searching Engines of Components](#searching-engines-of-components)
 - [Blogs](#blogs)
+- [News](#news)
 - [Interview Questions](#interview-questions)
 - [Others](#others)
 - [Contribute](#contribute)
@@ -34,6 +35,7 @@ electronics.
 - [Electronics Club](https://electronicsclub.info/) - A website for anyone wishing to learn about electronics or build simple projects. Written for beginners but used by many others as a quick reference.
 - [Adafruit Learning System](https://learn.adafruit.com/) - It provides a good bit of documentations for a lot of their products, various projects and topics. While these articles tend to geared to beginners and hobbyists, it provides a good resource to discover a new topic.
 - [DistroForge Learn](https://distroforge.com/learn) - Free courses on how the electric distribution grid works: AC power, transformers, protection coordination, reliability, and field safety.
+- [OminiPCB](https://ominipcb.com/pcb-manufacturing) - PCB manufacturing reference covering materials, stack-up, copper, controlled impedance, surface finish, panelization, and manufacturing considerations.
 
 ### Books ###
 - [Paul and Winfield - The Art Of Electronics](https://www.uvm.edu/~gpetrucc/courses/Chem219/Lectures/Paul%20Horowitz,%20Winfield%20Hill%20-%20The%20Art%20of%20Electronics-Cambridge%20University%20Press%20(2015).pdf) - The most popular and important book, every Electronic Engineer should read it.
@@ -126,6 +128,10 @@ videos where he replies to any question fro .
 - [EDN Network](https://www.edn.com/) - All kinds of electronics news.
 - [SparkFun](https://www.sparkfun.com/) - Bunch of different resources, tutorials and a great shop!
 - [Jay Carlson: So you want to build an embedded system?](https://jaycarlson.net/embedded-linux/) - Incredible post from Jay Carlson about embedded systems.
+- [OminiPCB Blog](https://ominipcb.com/blog) - Articles covering PCB design, manufacturing, PCBA, EMS, DFM, component sourcing, and electronics engineering.
+
+## News
+- [PCB Today](https://ominipcb.com/pcb-today) - PCB industry intelligence covering manufacturing, electronics supply chains, technology developments, and market trends.
 
 ## Interview Questions ##
 - [A C Test: The 0x10 Best Questions for Would-be Embedded Programmers](https://rmbconsulting.us/publications/a-c-test-the-0x10-best-questions-for-would-be-embedded-programmers/) - Interesting embedded C interview questions.

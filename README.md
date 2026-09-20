@@ -135,6 +135,7 @@ videos where he replies to any question fro .
 - [What are some more obscure interview questions for embedded positions?](https://www.reddit.com/r/embedded/comments/bqoqpr/what_are_some_more_obscure_interview_questions/) - r/embedded thread with lots of interesting interview questions.
 
 ## Others ##
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 
 - [Soldering is easy](http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf) - Soldering comic guide that teaches everything you need to know to become a master of soldering.
 - [Fritzing](http://fritzing.org/home/) - Open source hardware that includes schematic capture and breadboard layout applications.

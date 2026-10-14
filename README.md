@@ -83,6 +83,7 @@ videos where he replies to any question fro .
 - [B.A.Byrce - KiCad PCB Tutorial](http://babryce.com/kicad/tutorial.html) - Short yet efficient KiCad tutorial that uses an example to guide you through all the processes of creating a PCB.
 - [Contextual Electronics - Shine On You Crazy KiCad](https://www.youtube.com/watch?v=BVhWh3AsXQs&list=PLy2022BX6EspFAKBCgRuEuzapuz_4aJCn) - Contextual Electronics offers lots of KiCad video tutorials.
 - [AddOhms](https://www.youtube.com/watch?v=5fvdxd0QhTw&list=PLRIGIzu0Z7KllhKqPsNDwitjpK45SHoKg) - Custom Arduino Design Series, Schematic, PCB, Test.
+- [KiCad BOM and Placement Export Exercises](https://pcbapartner.com/tools/kicad-export-compatibility/) - Reproducible KiCad 10.0.6 exercises for grouped BOMs, placement coordinates and units, with original teaching sources and recorded native exports.
 
 ### Gerber Viewers ###
 - [gerbv](http://gerbv.geda-project.org/) - Free and open source Gerber viewer. Is a native Linux application, but also has an available version for Windows.

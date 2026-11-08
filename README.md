@@ -28,6 +28,7 @@
 ## Learning Resources ##
 
 ### Websites ###
+- [Calculation Hub Ohm's Law Calculator](https://calculation-hub.com/electricity/ohms-law) - Free educational voltage, current, resistance, and power calculations for simple ohmic circuits, with formulas.
 - [All About Circuits](https://www.allaboutcircuits.com/education/) - Offers a wide variety of learning resources including textbooks, video lectures and worksheets.
 - [AirgapFlux](https://explore.airgapflux.in/) -  A collection of electrical (power and energy) and electronic engineering (+control and DSP) resources.
 - [Electronics Tutorials](https://www.electronics-tutorials.ws/) - Very descriptive tutorials in many different fields of
